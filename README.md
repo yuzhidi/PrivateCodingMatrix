@@ -1,5 +1,5 @@
 # PrivateCodingMatrix
-personal user. All the res are encrypted
+personal nedved user. All the res are encrypted
 
 Quick setup — if you've done this kind of thing before
 
